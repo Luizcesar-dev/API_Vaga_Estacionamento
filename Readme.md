@@ -12,6 +12,7 @@ A aplicação  consiste em efetuar procedimentos de CAdastro, consulta, atualiza
 # Tecnologias Utilizadas:
 ## Back End
 - JAVA
+- Maven
 - Spring Boot Franework
 - Spring MVC
 - Sprong Data JPA
