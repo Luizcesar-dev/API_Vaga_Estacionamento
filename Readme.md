@@ -95,5 +95,5 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.Oracle10gDialect
 
 ## Autor
 Luiz Cesar Oliveira
-Desenvoldor Pleno
+Desenvoldor JUnior
 
